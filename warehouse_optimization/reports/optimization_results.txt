@@ -1,0 +1,16 @@
+Warehouse Picking Optimization - Results Summary
+==================================================
+
+1. Batching Optimization:
+   Optimized batches: 10
+   Random batches: 10
+   Average batch size (optimized): 9.90
+   Average batch size (random): 10.00
+
+2. Performance Comparison:
+   Total estimated time (optimized): 5603.45 seconds
+   Total estimated time (random): 5666.59 seconds
+   Time improvement: 1.11%
+   Load balance (std dev) - optimized: 0.30
+   Load balance (std dev) - random: 0.00
+   Load balance improvement: -inf%
